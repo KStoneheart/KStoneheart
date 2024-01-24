@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm Kerem "KStoneheart" G.</h1>
+<h1 align="center">Hi, I'm Kerem "KStoneheart" G.</h1>
 <h3 align="center">Dark is the night.</h3>
 
-- 🔭 I’m currently working on **Learning!**
 
-<h3 align="left">Connect with me:TBA</h3>
+<h3 align="left">https://youtu.be/UpumLmKNTyk</h3>
 <p align="left">
 </p>
